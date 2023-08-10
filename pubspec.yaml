@@ -62,7 +62,7 @@ dependencies:
   # Android iOS       macOS
   html: ^0.15.0
   # Android iOS Linux macOS web Windows
-  dio: ^4.0.0
+  dio: ^5.3.2
   # Android iOS Linux macOS web Windows
 
 dev_dependencies:
